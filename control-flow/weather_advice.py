@@ -1,4 +1,4 @@
-weather_status = input(" What's the weather like today? (sunny/rainy/cold):")
+weather_status = input("What's the weather like today? (sunny/rainy/cold):")
 if weather_status == "sunny":
     print("Wear a t-shirt and sunglasses.")
 elif weather_status == "rainy":
